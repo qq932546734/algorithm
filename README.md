@@ -3,4 +3,4 @@
 
 #### 归并排序
 
-![归并排序动图](merge_sort.gif?raw=true)
+![归并排序动图](images/merge_sort.gif?raw=true)
